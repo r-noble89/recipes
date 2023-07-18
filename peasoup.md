@@ -3,5 +3,6 @@
 - spring onions
 - potato
 # Instructions
+Boil peas in salted water for 2 minutes
 
 
